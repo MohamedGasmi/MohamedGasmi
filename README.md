@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohamedGasmi
-- 👀 I’m interested in cybersecurity,web , python,js and plenty others
-- 🌱 I’m currently learning Machine Learning techniques
+- 👀 I’m interested in cybersecurity.
+- 🌱 I’m currently learning Machine Learning techniques.
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me -> mohamedgasmi588@gmail.com
 
