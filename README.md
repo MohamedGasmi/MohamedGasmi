@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohamedGasmi
-- 👀 I’m interested in cybersecurity.
+- 👀 I’m interested in CyberSecurity.
 - 🌱 I’m currently learning Machine Learning techniques.
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me -> mohamedgasmi588@gmail.com
