@@ -16,4 +16,4 @@ Hey! I'm Mohamed, a cybersecurity engineer with a strong focus on Blue Team oper
 
 ---
 
-_“Security is not a product, but a process.” – Bruce Schneier_
+_“Security is not a product, but a process.” - Bruce Schneier_
