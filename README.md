@@ -2,7 +2,7 @@
 
 **Cybersecurity Engineer** | **SOC Analyst** | **Passionate about AI & Threat Detection**
 
-Hey! I'm Mohamed, a cybersecurity engineer with a strong focus on Blue Team operations, SOC analysis, and modern cryptographic systems. I'm also a Security+ instructor and published researcher in phishing detection using ML. Currently exploring neural cryptography and AI-enhanced threat intelligence platforms.
+Hey! I'm Mohamed, a cybersecurity engineer with a strong focus on Blue Team operations, SOC analysis, and modern cryptographic systems. I'm also a cybersecurity trainer, helping others build practical security skills. Published researcher in phishing detection using ML. Currently exploring neural cryptography and AI-enhanced threat intelligence platforms.
 
 ## Projects & Interests
 -  Machine Learning for Phishing Detection
