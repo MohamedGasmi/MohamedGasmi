@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Mohamed Gasmi  
 
 🔐 **Cybersecurity Engineer & SOC Analyst**  
+
 I specialize in **blue team operations, threat detection, and secure systems design**. My work spans from **real-world SOC experience** (SIEM, EDR, firewall/proxy management, incident response) to **academic research** in phishing detection and machine learning.  
 
 💡 I enjoy building **practical security tools** in Python, automating detection workflows, and sharing knowledge through **teaching and workshops**.  
