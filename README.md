@@ -23,6 +23,14 @@ I specialize in **blue team operations, threat detection, and secure systems des
 
 ---
 
+---
+
+## 📜 Certifications
+- Certified in Cybersecurity (ISC² CC)  
+- NIST Cybersecurity Framework (CSF) v2.0 Specialist (PECB / Campus Cyber)  
+
+---
+
 ## 📬 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamedgasmi/)  
 - ✉️ Reach me: mohamedgasmi588@example.com  
