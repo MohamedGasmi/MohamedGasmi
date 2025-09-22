@@ -31,7 +31,7 @@ I specialize in **blue team operations, threat detection, and secure systems des
 
 ## 📬 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamedgasmi/)  
-- ✉️ Reach me: mohamedgasmi588@example.com  
+- ✉️ Reach me: plmedgasmi@gmail.com  
 
 ---
 
