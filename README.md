@@ -16,11 +16,11 @@ I have personally **led the implementation of SIEM platforms, vulnerability mana
 
 My credentials span both the **technical and governance layers** of cybersecurity: from low-level detection engineering with Splunk, Sentinel, Fortinet SIEM, and Wazuh, to **ISO/IEC 27032 cybersecurity management**, **NIST CSF v2.0 framework implementation**, and **AI risk management (AI RMF)**. I understand how to build security programs that are both operationally effective and governance-compliant.
 
-I hold formal training from **Rapid7, Cisco, Fortinet, Symantec, Kaspersky, CompTIA, and PECB** — each certification backed by official, vendor-delivered instruction in Algiers.
+I hold formal training from **Rapid7, Cisco, Fortinet, Symantec, Kaspersky, CompTIA, and PECB**, each certification backed by official, vendor-delivered instruction in Algiers.
 
 I am actively available for **remote positions**, **consulting engagements**, **SIEM implementation projects**, and **cybersecurity governance advisory** with international organizations.
 
-> *"Effective security is built at the intersection of detection engineering and governance — technical precision without strategic alignment is just noise."*
+> *"Effective security is built at the intersection of detection engineering and governance, technical precision without strategic alignment is just noise."*
 
 ---
 
