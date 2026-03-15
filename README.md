@@ -104,7 +104,7 @@ Jupyter Notebooks                            Git / GitHub  REST APIs
 
 ## 🏦 Real-World Deployments (Banking Sector)
 
-Unlike most portfolio projects, the work below was executed inside **live production environments at public banking institutions in Algeria** — not labs or simulations.
+Unlike most portfolio projects, the work below was executed inside **live production environments at public banking institutions in MENA region**, not labs or simulations.
 
 | Project | Environment | Outcome |
 |---|---|---|
