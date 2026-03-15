@@ -29,7 +29,7 @@ I am actively available for **remote positions**, **consulting engagements**, **
 | Domain | Competencies |
 |---|---|
 | **SOC Operations** | Alert triage, L1–L3 analysis, incident escalation, KPI tracking, SOC maturity improvement |
-| **SIEM Engineering** | Splunk SPL, KQL (Sentinel), Fortinet SIEM, Wazuh — rule design, correlation, dashboard development |
+| **SIEM Engineering** | Splunk SPL, KQL (Sentinel), Fortinet SIEM, Wazuh - rule design, correlation, dashboard development |
 | **Vulnerability Management** | Nexpose (Rapid7), enterprise VM program design, remediation tracking, risk prioritization |
 | **Penetration Testing** | Metasploit Pro, ethical hacking methodology, pen test program management, reporting |
 | **Detection Engineering** | MITRE ATT&CK mapping, custom detection logic, Sigma rules, false positive tuning |
