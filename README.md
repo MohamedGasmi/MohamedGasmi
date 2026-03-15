@@ -10,9 +10,9 @@
 
 ## 🧑‍💼 Professional Summary
 
-I am a **cybersecurity engineer with deep hands-on experience in the Algerian banking sector**, combining SOC operations, enterprise SIEM deployment, vulnerability management, and cybersecurity governance into a unified, production-tested skill set.
+I am a **cybersecurity engineer with deep hands-on experience in the MENA region banking sector**, combining SOC operations, enterprise SIEM deployment, vulnerability management, and cybersecurity governance into a unified, production-tested skill set.
 
-I have personally **led the implementation of SIEM platforms, vulnerability management systems, penetration testing solutions, endpoint security tools, proxy servers, and firewall deployments** inside public banking institutions — environments where security failures carry regulatory and operational consequences.
+I have personally **led the implementation of SIEM platforms, vulnerability management systems, penetration testing solutions, endpoint security tools, proxy servers, and firewall deployments** inside public banking institutions environments where security failures carry regulatory and operational consequences.
 
 My credentials span both the **technical and governance layers** of cybersecurity: from low-level detection engineering with Splunk, Sentinel, Fortinet SIEM, and Wazuh, to **ISO/IEC 27032 cybersecurity management**, **NIST CSF v2.0 framework implementation**, and **AI risk management (AI RMF)**. I understand how to build security programs that are both operationally effective and governance-compliant.
 
