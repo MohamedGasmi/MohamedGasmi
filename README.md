@@ -258,9 +258,9 @@ I am actively seeking:
 
 **I work effectively across time zones and am comfortable collaborating with distributed, international security teams.**
 
-📩 **Reach me at:** [my@email.com](mailto:mohamedgasmi588@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/myprofile](https://www.linkedin.com/in/mohamedgasmi/)
-🗓️ **Book a 30-min consultation call:** [calendly.com/myprofile](https://calendar.app.google/BmVyCHvqo91hGqPm8)
+📩 **Reach me at:** [mohamedgasmi588@gmail.com](mailto:mohamedgasmi588@gmail.com)
+💼 **LinkedIn:** [mohamedgasmi](https://www.linkedin.com/in/mohamedgasmi/)
+🗓️ **Book a 30-min consultation call:** [Google Calendar](https://calendar.app.google/BmVyCHvqo91hGqPm8)
 
 ---
 
