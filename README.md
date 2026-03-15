@@ -112,9 +112,9 @@ Unlike most portfolio projects, the work below was executed inside **live produc
 | **Vulnerability Management Implementation** | Public bank | Nexpose deployment; established continuous scanning and risk-prioritized remediation workflow |
 | **Penetration Testing Platform** | Public bank | Metasploit Pro rollout; formalized internal pen test capability for proactive weakness identification |
 | **Kaspersky Endpoint Security Deployment** | Organization-wide | Configured and deployed KES across workstations and servers; centralized management console |
-| **Proxy Server Deployment (ProxySG / SWG)** | Centre de bank (2024) | Symantec BlueCoat ProxySG deployment; enhanced network security and access control |
-| **Firewall Deployment** | Banking network (2024) | Advanced firewall solutions deployed; hardened perimeter and internal segmentation |
-| **Router Deployment & Configuration** | Banking infrastructure (2023–2024) | Cisco router deployment; improved network infrastructure, connectivity, and routing optimization |
+| **Proxy Server Deployment (ProxySG / SWG)** | Public bank | Symantec BlueCoat ProxySG deployment; enhanced network security and access control |
+| **Firewall Deployment** | Public bank | Advanced firewall solutions deployed; hardened perimeter and internal segmentation |
+| **Router Deployment & Configuration** | Banking infrastructure | Cisco router deployment; improved network infrastructure, connectivity, and routing optimization |
 
 ---
 
